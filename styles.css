@@ -249,4 +249,7 @@ hr {
     transition-duration: 0.4s;
     overflow: visible;
   }
+
+  .back-button {
+    display: none;
 }
